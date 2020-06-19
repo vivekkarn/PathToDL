@@ -30,9 +30,7 @@
 
 ### Deep Learning with Pytorch
 
-**Day 1**: Deep Learning with PyTorch: A 60 Minute Blitz and some Googling
-
-**Remaining days**: Applied Deep Learning with PyTorch on freecodecamp
+- Learning PyTorch from very basic tensors to Generative adversarial network from freecodecamp Youtube videos taught by Jovian.ml
 
 - Not tensorflow because their APIs and syntax keep changing so much that it becomes hard to keep track of.
 - We shall learn sklearn, pandas and matplotlib as and when required alongside from their documentaion.
